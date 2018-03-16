@@ -21,7 +21,6 @@ var getHtmlConfig = function (name, title) {
         chunks: ['common', name]
     }
 };
-
 //webpack config
 var config = {
     entry: {
