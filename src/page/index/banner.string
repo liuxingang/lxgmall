@@ -1,0 +1,40 @@
+<div id="slideBox" class="slideBox">
+    <div class="hd">
+        <ul><li class="">1</li><li>2</li><li class="">3</li><li class="">4</li><li class="">5</li></ul>
+    </div>
+    <div class="bd">
+        <ul>
+            <li>
+                <a href="./list.html?categoryId=100021" target="_blank">
+                     <img src="../../image/banner/banner1.jpg" alt="">
+                </a>
+            </li>
+            <li>
+                <a href="./list.html?categoryId=100030" target="_blank">
+                    <img src="../../image/banner/banner2.jpg" alt="">
+                </a>
+            </li>
+            <li>
+                <a href="./list.html?categoryId=100016" target="_blank">
+                    <img src="../../image/banner/banner3.jpg" alt="">
+                </a>
+            </li>
+            <li>
+                <a href="./list.html?categoryId=100001" target="_blank">
+                    <img src="../../image/banner/banner4.jpg" alt="">
+                </a>
+            </li>
+            <li>
+                <a href="./list.html?categoryId=100021" target="_blank">
+                    <img src="../../image/banner/banner5.jpg" alt="">
+                </a>
+            </li>
+
+        </ul>
+    </div>
+
+    <!-- 下面是前/后按钮代码，如果不需要删除即可 -->
+    <a class="prev" href="javascript:void(0)"></a>
+    <a class="next" href="javascript:void(0)"></a>
+
+</div>
